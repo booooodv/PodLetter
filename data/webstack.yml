@@ -1,0 +1,105 @@
+---
+
+- taxonomy: 常用推荐
+  icon: linecons-star
+  links: 
+
+    - title: 小宇宙
+      logo: assets/images/logos/XiaoyuzhouFM.png
+      url: https://www.xiaoyuzhoufm.com/
+      description: 散步时通勤路上. 听播客，上小宇宙
+
+- taxonomy: Newsletter
+  icon: linecons-doc
+  list:
+
+    - term: Newsletter 平台（国外） 
+      links:
+
+      - title: Substack
+        logo: assets/images/logos/Substack.png
+        url: http://www.uigreat.com/
+        description: Substack makes it simple for a writer to start an email newsletter that makes money from subscriptions.
+
+      - title: Revue
+        logo: assets/images/logos/Revue.png
+        url: https://www.getrevue.co/
+        description: Revue makes it easy for writers and publishers to send editorial newsletters — and get paid.
+
+      - title: Medium
+        logo: assets/images/logos/Medium.png
+        url: https://medium.com
+        description: Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.
+
+    - term: Newsletter 平台（国内）
+      links:
+
+        - title: Hedwig
+          logo: assets/images/logos/Hedwig.png
+          url: https://hedwig.pub
+          description: 一个简单可靠的邮件 Newsletter 创作平台。
+
+        - title: 知园
+          logo: assets/images/logos/Zhiy.png
+          url: https://zhiy.cc/
+          description: 为价值而写作，不为流量。流量逻辑在无形中影响着写作者去为吸引眼球和挑动读者情绪而写作。区别于流量型平台上的写作体验，Newsletter 让你专心于创作有价值的内容。
+
+        - title: 氢舟
+          logo: assets/images/logos/Hypper.png
+          url: https://hypper.cn/
+          description: 重新定义创作价值，让最懂你的粉丝通过订阅会员支持你的创作。
+
+    - term: Newsletter 订阅（免费）
+      links:
+        
+        - title: 增长黑客周刊
+          logo: assets/images/logos/default.png
+          url: http://ghacker.vip/
+          description: 《增长黑客》作者范冰（@XDash）维护的Newsletter，关注增长案例、工具资源、效率认知。
+    
+    - term: Newsletter 订阅（收费）
+      links:
+
+        - title: 新闻实验室（300 / 年）
+          logo: assets/images/logos/Newslab.png
+          url: https://newslab.info/join/
+          description: 新闻传播学者方可成从2016年9月开始运营的会员计划，内容涵盖全球传媒业和数字科技产业最新热点、学术研究成果等。除newsletter外还可以获得线上讲座、招聘信息等。
+
+- taxonomy: Podcast
+  icon: linecons-lightbulb
+  list: 
+
+    - term: Podcast 平台
+      links:
+
+        - title: 小宇宙
+          logo: assets/images/logos/XiaoyuzhouFM.png
+          url: https://www.xiaoyuzhoufm.com/
+          description: 散步时通勤路上. 听播客，上小宇宙！
+      
+        - title: 汽水儿
+          logo: assets/images/logos/Qishuuler.png
+          url: https://www.qishuier.com/
+          description: 溅你一声快乐 | 逛着看想听的，一边听一边聊。
+
+        - title: Spotify
+          logo: assets/images/logos/Spotify.png
+          url: https://www.spotify.com
+          description: Spotify has over 299 million listeners across 92 markets worldwide just waiting to discover podcasts like yours.
+
+    - term: Podcast 节目（中文）
+      links:
+
+        - title: 小宇宙
+          logo: assets/images/logos/XiaoyuzhouFM.png
+          url: https://www.xiaoyuzhoufm.com/
+          description: 散步时通勤路上. 听播客，上小宇宙！   
+
+
+    - term: Podcast 节目（外语）
+      links:
+
+        - title: 小宇宙
+          logo: assets/images/logos/XiaoyuzhouFM.png
+          url: https://www.xiaoyuzhoufm.com/
+          description: 散步时通勤路上. 听播客，上小宇宙！

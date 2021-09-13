@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "zh-CN"
+title = "PodLetter 播客简报导航"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""
+[params]
+  author = "iplaycode"
+  description = "Webstack Hugo"
