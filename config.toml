@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.podletter.club/"
 languageCode = "zh-CN"
 title = "PodLetter 播客简报导航"
 theme = "webstack-hugo"
@@ -7,5 +7,5 @@ disablePathToLower = true
 hasCJKLanguage = true
 copyright = ""
 [params]
-  author = "iplaycode"
-  description = "Webstack Hugo"
+  author = "FinnYan"
+  description = "播客简报导航"

@@ -49,6 +49,12 @@
           url: https://hypper.cn/
           description: 重新定义创作价值，让最懂你的粉丝通过订阅会员支持你的创作。
 
+        - title: 竹白
+          logo: assets/images/logos/Zhubai.png
+          url: https://zhubai.pub/
+          description: （暂无找到介绍）
+
+
     - term: Newsletter 订阅（免费）
       links:
         
@@ -90,16 +96,25 @@
     - term: Podcast 节目（中文）
       links:
 
-        - title: 小宇宙
-          logo: assets/images/logos/XiaoyuzhouFM.png
-          url: https://www.xiaoyuzhoufm.com/
-          description: 散步时通勤路上. 听播客，上小宇宙！   
+        - title: 文化有限
+          logo: assets/images/logos/Whyx.jpg
+          url: https://www.xiaoyuzhoufm.com/podcast/5e4515bd418a84a046e2b11a
+          description: 「文化有限」是一档泛文化播客，每周二更新，和你分享最打动我们的作品。  
 
+        - title: 谐星聊天会
+          logo: assets/images/logos/Xxlth.jpg
+          url: https://www.xiaoyuzhoufm.com/podcast/5e280fa7418a84a0461f912b
+          description: 谐星聊天会是一档单口喜剧演员与听众一同线下录制完成的音频节目，用幽默开解生活中的沉杂琐事！
+
+        - title: 天才捕手 FM
+          logo: assets/images/logos/TcbsFM.jpg
+          url: https://www.ximalaya.com/yule/31511010/
+          description: 【天才捕手FM】是一档亲历者讲述自己职业故事的播客，我们会打捞10000个最带劲的职业故事，找到各行各业的优秀人才，为中国青年增加生活和工作的勇气。
 
     - term: Podcast 节目（外语）
       links:
 
-        - title: 小宇宙
-          logo: assets/images/logos/XiaoyuzhouFM.png
-          url: https://www.xiaoyuzhoufm.com/
-          description: 散步时通勤路上. 听播客，上小宇宙！
+        - title: Today,Explained
+          logo: assets/images/logos/TodayExplained.png
+          url: https://www.vox.com/today-explained
+          description: Host Sean Rameswaram will guide you through the most important stories at the end of each day.
