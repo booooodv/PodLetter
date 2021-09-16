@@ -4,8 +4,6 @@ date: 2021-09-16T20:27:08+08:00
 draft: false
 ---
 
-## 关于网站
-
 
 
 我发现 Newsletter 和 Podcast 有很多精品，但是往往没有一个集中展现的地方。所以我选择通过一个导航网站的形式进行，帮助新手发现更多符合自己喜好的频道。
@@ -14,7 +12,7 @@ draft: false
 
 
 
-### 感谢
+**感谢**
 
 
 
@@ -26,7 +24,7 @@ draft: false
 
 
 
-### 分类推荐
+**分类推荐**
 
 
 
@@ -36,7 +34,7 @@ draft: false
 
 
 
-## 关于作者
+#### 关于作者
 
 
 
@@ -44,15 +42,15 @@ FinnYan，正在一家开源公司中做内容运营（Newsletter、短视频）
 
 
 
-### 网站维系
+**网站维系**
 
 
 
-为了方便国内用户访问，所以将网站部署在个人国内服务器上（还部署了[数据监控](https://umami.finncode.cn/share/vaLCUHdk/podletter)），服务器会有一定的开销，但是问题不大，应该能长期维系。若网站对你有所帮助，希望能够多到 [Discussions](https://github.com/booooodv/PodLetter/discussions) 提出你的建议。若你懂的 Git，希望你能提交相关 PR，帮助网站更加完善。
+为了方便国内用户访问，所以将网站部署在个人国内服务器上（还部署了[数据监控](https://umami.finncode.cn/share/vaLCUHdk/podletter)），服务器会有一定的开销，但是问题不大，不需要加广告，应该也能长期维系。若网站对你有所帮助，希望能够多到 [Discussions](https://github.com/booooodv/PodLetter/discussions) 提出你的建议。若你懂的 Git，希望你能提交相关 PR，帮助网站更加完善。
 
 
 
-### 找到我
+**联系我**
 
 
 
