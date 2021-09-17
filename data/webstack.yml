@@ -1,6 +1,20 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 最新公告
+  icon: linecons-bullhorm
+  links: 
+
+    - title: 希望站点新增
+      logo: assets/images/logos/default.png
+      url: https://github.com/booooodv/PodLetter/issues
+      description: 请点击前往 GitHub 提交 issue 填写相关信息，若访问 GitHub 有困难，可邮件 FinnYanMail@gmail.com。
+
+    - title: 【收集】第一批 Podcast
+      logo: assets/images/logos/default.png
+      url: https://github.com/booooodv/PodLetter/discussions/7
+      description: 快来参与讨论，完成第一批 Podcast 列表，赶快留下你最爱的栏目吧~
+
+- taxonomy: 精品推荐
   icon: linecons-star
   links: 
 
