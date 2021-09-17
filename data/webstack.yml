@@ -62,6 +62,31 @@
           logo: assets/images/logos/default.png
           url: http://ghacker.vip/
           description: 《增长黑客》作者范冰（@XDash）维护的Newsletter，关注增长案例、工具资源、效率认知。
+
+        - title: 王龙行
+          logo: assets/images/logos/N-Wlx.jpg
+          url: https://zhiy.cc/long
+          description: 创业的经验总结、对商业的思考、关注的创业故事与启发、想到的一些创新机会、新发现的产品。
+
+        - title: 潦草学者
+          logo: assets/images/logos/N-Lcxz.jpg
+          url: https://zhiy.cc/messy
+          description: 分享日常思考。长期关注互联网商业，效率工具。
+
+        - title: Steve 说每周通讯
+          logo: assets/images/logos/default.png
+          url: https://steve.hedwig.pub/
+          description: 「Steve说」主播Steve和朋友们每周精选的优质内容。
+
+        - title: 推播助栏 The Podcast Pick
+          logo: assets/images/logos/ThePodcastPick.png
+          url: https://enzochen.substack.com/
+          description: 由撰稿人陈恒一创办的一份关于中文 Podcast 的免费 Newsletter，形式分为文章和播客两种。
+
+        - title: 任听播客
+          logo: assets/images/logos/GetPodcastt.png
+          url: https://letter.getpodcast.xyz/
+          description: 任听播客通讯是一份双周更新的邮件通讯，由任平生分享他这段时间听到有意思的播客内容。
     
     - term: Newsletter 订阅（收费）
       links:
