@@ -2,7 +2,7 @@
 
 [播客、简报导航网站](https://www.podletter.club/)
 
-网站服务器每十五分钟同步一次本仓库，所以只需提交修改 PR 即可修改网站内容。
+⭐ 网站服务器**每十五分钟**同步一次本仓库，所以只需提交修改 PR 即可修改网站内容。⭐
 
 #### 关于网站
 
@@ -34,9 +34,9 @@ FinnYan，正在一家开源公司中做内容运营（Newsletter、短视频）
 
 **联系我**
 
-[GitHub](https://github.com/booooodv)、[即刻](https://web.okjike.com/u/342FFDA6-76FE-48B4-9449-0598F108BF65)、[Blog](https://www.finncode.cn/)、[Newsletter](https://zhiy.cc/futurow)
+[GitHub](https://github.com/booooodv)、[即刻](https://web.okjike.com/u/342FFDA6-76FE-48B4-9449-0598F108BF65)、[Blog](https://www.finncode.cn/)、[Newsletter](https://zhiy.cc/futurow)、[知乎](https://www.zhihu.com/people/yan-yun-feng-55)
 
-邮箱：FinnYanMail@Gamil.com
+📮 邮箱：FinnYanMail@Gamil.com
 
 ### License
 
