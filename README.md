@@ -35,3 +35,7 @@ FinnYan，正在一家开源公司中做内容运营（Newsletter、短视频）
 [GitHub](https://github.com/booooodv)、[即刻](https://web.okjike.com/u/342FFDA6-76FE-48B4-9449-0598F108BF65)、[Blog](https://www.finncode.cn/)、[Newsletter](https://zhiy.cc/futurow)
 
 邮箱：FinnYanMail@Gamil.com
+
+### License
+
+**MIT License.**
