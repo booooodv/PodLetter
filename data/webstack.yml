@@ -1,7 +1,7 @@
 ---
 
 - taxonomy: 最新公告
-  icon: linecons-bullhorm
+  icon: fa-bullhorn
   links: 
 
     - title: 希望站点新增
@@ -15,7 +15,7 @@
       description: 快来参与讨论，完成第一批 Podcast 列表，赶快留下你最爱的栏目吧~
 
 - taxonomy: 精品推荐
-  icon: linecons-star
+  icon: fa-star-o
   links: 
 
     - title: 小宇宙
@@ -24,7 +24,7 @@
       description: 散步时通勤路上. 听播客，上小宇宙
 
 - taxonomy: Newsletter
-  icon: linecons-doc
+  icon: fa-envelope-open-o
   list:
 
     - term: Newsletter 平台（国外） 
@@ -111,7 +111,7 @@
           description: 新闻传播学者方可成从2016年9月开始运营的会员计划，内容涵盖全球传媒业和数字科技产业最新热点、学术研究成果等。除newsletter外还可以获得线上讲座、招聘信息等。
 
 - taxonomy: Podcast
-  icon: linecons-lightbulb
+  icon: fa-podcast
   list: 
 
     - term: Podcast 平台
