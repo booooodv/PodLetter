@@ -101,7 +101,147 @@
           logo: assets/images/logos/GetPodcastt.png
           url: https://letter.getpodcast.xyz/
           description: 任听播客通讯是一份双周更新的邮件通讯，由任平生分享他这段时间听到有意思的播客内容。
+
+        - title: The Quibbler
+          logo: assets/images/logos/N-TheQuibbler.jpg
+          url: https://thequibbler.zhubai.pub/
+          description: 这是一份关于互联网、科技领域的 Newsletter，每月一期，偶尔提前。
+
+        - title: 水山说
+          logo: assets/images/logos/N-Sss.png
+          url: https://zhiy.cc/ssshuos
+          description: 前在行产品负责人 美团/搜狐/九鼎集团高级产品专家 设计/摄影/科技/互联网/营销都有所涉猎
+
+        - title: 🏰 城堡阅读周刊
+          logo: assets/images/logos/N-Cbyd.png
+          url: https://www.yuque.com/gaohui-bdaa2/chengbao
+          description: 分享个体见闻，探索内心宇宙。
+
+        - title: 唯理通讯
+          logo: assets/images/logos/N-Veritas.png
+          url: https://www.veritaschina.org/newsletter/
+          description: 唯理通讯推荐精选自互联网的深度文本。我们希望这些内容传播富有思考的声音，并促进订阅者对社会议题的关注。我们相信，在互联网的信息洪流中仍有独立思考的可能。如果你希望看到更多这样的内容，欢迎邀请更多朋友订阅我们。
+
+        - title: 曼報
+          logo: assets/images/logos/N-Mb.png
+          url: https://mailchi.mp/f91ecf7c7eb8/mannyli
+          description: Hello，我是 Manny。關注科技及創新趨勢一直是我的最大興趣，因為它們將形塑每一個人的未來生活。然而，一個人的能力與視角有限，因此希望透過以電子報分享所見所思的方式，結識更多朋友，激盪出更多思維火花。
+        
+        - title: 科技創業週報 Star Rocket
+          logo: assets/images/logos/N-StarRocket.jpg
+          url: https://blog.starrocket.io/star-rocket-newsletter/
+          description: 創新故事與觀點 + 歷久彌新經典好文 | 編輯貼心引言 + 每週 Podcast 推薦
+
+        - title: Yestoday
+          logo: assets/images/logos/default.png
+          url: https://yestoday.substack.com/
+          description: yes today is not yesterday.
+
+        - title: 小胖の窝
+          logo: assets/images/logos/N-Xp.jpg
+          url: https://littlefat.cn/
+          description: O ever youthful, O ever weeping.
+
+        - title: 白宇极
+          logo: assets/images/logos/N-Byj.jpg
+          url: https://yestoday.substack.com/
+          description: 我对世界的看法、书信、读书记录以及由此而来的思考。短文居多。
+
+        - title: 事不过三
+          logo: assets/images/logos/default.png
+          url: https://via.hedwig.pub/
+          description: 重要的事情不过三件
+
+        - title: 自说自话
+          logo: assets/images/logos/default.png
+          url: https://landisland.hedwig.pub/
+          description: 没有记录就没有发生，而记录本身已经是一种反抗。
+
+        - title: 安妮薇时报
+          logo: assets/images/logos/N-AnywayNews.png
+          url: https://anyway.fm/news/
+          description: Anyway.FM 设计杂谈是一档播客节目，由 UI 设计师 JJ Ying 和 Leon Gao 主播，我们的目标是让你的听觉更懂视觉。
+
+        - title: 光明王 Lord of Light
+          logo: assets/images/logos/N-LordOfLight.png
+          url: https://lordoflight.substack.com/
+          description: 大家好，我是Frank Xu，一个普通人。这是我的电邮简讯，叫光明王。它的名字来源于我初中时读过的一部科幻（奇幻）小说——罗杰·泽拉兹尼（Roger Zelazny）的《光明王》。
+
+        - title: 若有所播
+          logo: assets/images/logos/N-ToBePodcasting.png
+          url: https://www.getrevue.co/profile/tobepodcasting
+          description: 若有所播丨To Be Podcasting
+
+        - title: 生活奇旅
+          logo: assets/images/logos/default.png
+          url: https://newsletter.weichen.blog/
+          description: 探寻如何更好地生活
+
+        - title: happy letter
+          logo: assets/images/logos/N-happyletter.jpg
+          url: https://xiao.do/
+          description: 分享实用的效率方法，健康习惯，思维模式
+
+        - title: Futurow 未来派
+          logo: assets/images/logos/N-Futurow.png
+          url: https://zhiy.cc/futurow
+          description: 爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么。
+
+        - title: 海上星光
+          logo: assets/images/logos/N-Hsxg.png
+          url: https://hsxg.ghost.io/
+          description: 这里记录的是一个产品经理和一个设计师对行业和世界的观察，我们想尝试分享一些行业产品动态、思考总结和有意思的阅读，与此同时希望能给订阅的你带来些许收获。
     
+        - title: 有朝随想
+          logo: assets/images/logos/N-Yzsx.png
+          url: https://www.getrevue.co/profile/lostluu
+          description: 阅读、记录、思考、分享。
+
+        - title: 生活奇旅
+          logo: assets/images/logos/default.png
+          url: https://newsletter.weichen.blog/
+          description: 探寻如何更好地生活
+
+        - title: 独来读趣
+          logo: assets/images/logos/default.png
+          url: https://molly.hedwig.pub/
+          description: read to the infinity and beyond
+
+        - title: 随机实验室
+          logo: assets/images/logos/default.png
+          url: https://random-lab.ghost.io/
+          description: 关于世界的随机观察
+
+        - title: Sustainable Curiosity
+          logo: assets/images/logos/N-SustainableCuriosity.png
+          url: https://zhiy.cc/mccc
+          description: 小陈的Every other day reading sharing，这里是我日间碎片化阅读的批注和观点的集散地，偶尔也会来书评和主题文章推荐。关注领域：互联网、商业纪实、效率工具和数字化管理提升
+
+        - title: 一半精灵
+          logo: assets/images/logos/N-Ybjl.jpg
+          url: https://www.getrevue.co/profile/yiyi11
+          description: 持续阅读思考，刻意练习写作
+
+        - title: 李雪含
+          logo: assets/images/logos/N-Lxh.jpg
+          url: https://zhiy.cc/lixuehan
+          description: 万物之中希望最美，万物之中确定性最贵
+
+        - title: 世俗的理想主义青年
+          logo: assets/images/logos/N-Ssdlxzyql.jpg
+          url: https://zhiy.cc/pmxusiyu
+          description: 专注于探讨与输出Martech营销技术、泛商业领域以及流行文化的日常产品思考。坚持理性分析商业逻辑，感性对待人文理想。
+
+        - title: 元朔
+          logo: assets/images/logos/N-Ys.jpg
+          url: https://zhiy.cc/yyds
+          description: 分享深度职场经验、技巧、公文写作干货和效率软件等，用我所知，陪你前行。 目前，推送的 Newsletter均为免费，欢迎订阅。
+
+        - title: MonoGoto
+          logo: assets/images/logos/N-MonoGoto.png
+          url: https://monogoto.ryouissei.com/
+          description: 『MonoGoto』是一个由 Issei 制作的月刊 Newsletter。这里会介绍从我的视角看到的世界，以及关于设计、艺术和文化的推荐信息。
+
     - term: Newsletter 订阅（收费）
       links:
 
@@ -109,6 +249,16 @@
           logo: assets/images/logos/Newslab.png
           url: https://newslab.info/join/
           description: 新闻传播学者方可成从2016年9月开始运营的会员计划，内容涵盖全球传媒业和数字科技产业最新热点、学术研究成果等。除newsletter外还可以获得线上讲座、招聘信息等。
+
+        - title: 海上星光 | 付费版（49 / 年）
+          logo: assets/images/logos/N-Hsxg.png
+          url: http://haishangxingguang.mikecrm.com/7INJhZW
+          description: 这里记录的是一个产品经理和一个设计师对行业和世界的观察，付费版本首年订阅价格49元/年，内容上将会比免费版本多大约50%的内容。
+
+        - title: 看不见的学园（150 / 年）
+          logo: assets/images/logos/N-Kbjdxy.png
+          url: https://invisible.school/
+          description: 「看不见的学园」是一档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。
 
 - taxonomy: Podcast
   icon: fa-podcast
