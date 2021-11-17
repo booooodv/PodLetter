@@ -242,6 +242,11 @@
           url: https://monogoto.ryouissei.com/
           description: 『MonoGoto』是一个由 Issei 制作的月刊 Newsletter。这里会介绍从我的视角看到的世界，以及关于设计、艺术和文化的推荐信息。
 
+        - title: 叁拾一周
+          logo: assets/images/logos/N-Elizen.jpg
+          url: https://elizen.zhubai.love/
+          description: Elizen 每周一个主题（周三发），内容简单不枯燥。
+
     - term: Newsletter 订阅（收费）
       links:
 
