@@ -202,11 +202,6 @@
           url: https://www.getrevue.co/profile/lostluu
           description: 阅读、记录、思考、分享。
 
-        - title: 生活奇旅
-          logo: assets/images/logos/default.png
-          url: https://newsletter.weichen.blog/
-          description: 探寻如何更好地生活
-
         - title: 独来读趣
           logo: assets/images/logos/default.png
           url: https://molly.hedwig.pub/
