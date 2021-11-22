@@ -23,6 +23,11 @@
       url: https://www.xiaoyuzhoufm.com/
       description: 散步时通勤路上. 听播客，上小宇宙
 
+    - title: 科技爱好者周刊
+      logo: assets/images/logos/default.png
+      url: https://github.com/ruanyf/weekly
+      description: 记录每周值得分享的科技内容，周五发布。（未开通 Newsletter，但可通过 Custon Watch 选择 PR 可邮件通知）
+
 - taxonomy: Newsletter
   icon: fa-envelope-open-o
   list:
@@ -197,11 +202,6 @@
           url: https://www.getrevue.co/profile/lostluu
           description: 阅读、记录、思考、分享。
 
-        - title: 生活奇旅
-          logo: assets/images/logos/default.png
-          url: https://newsletter.weichen.blog/
-          description: 探寻如何更好地生活
-
         - title: 独来读趣
           logo: assets/images/logos/default.png
           url: https://molly.hedwig.pub/
@@ -247,6 +247,91 @@
           url: https://elizen.zhubai.love/
           description: Elizen 每周一个主题（周三发），内容简单不枯燥。
 
+        - title: 科技爱好者周刊
+          logo: assets/images/logos/default.png
+          url: https://github.com/ruanyf/weekly
+          description: 记录每周值得分享的科技内容，周五发布。（未开通 Newsletter，但可通过 Custon Watch 选择 PR 可邮件通知）
+
+        - title: hackernewsletter
+          logo: assets/images/logos/default.png
+          url: https://hackernewsletter.com/
+          description: Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from Hacker News. Join 60,000+ other subscribers and don't miss another week.
+
+        - title: 商业内观
+          logo: assets/images/logos/N-Syng.png
+          url: https://hypper.cn/homepage/creator/714
+          description: 「商业内观」是一份摆渡在人类用思维构建的商业世界里，却一心想去往两千年前轴心时代的 Newsletter。
+
+        - title: 1000小食报
+          logo: assets/images/logos/N-Young.png
+          url: https://young.zhubai.love/
+          description: 从本土饮食出发，从个体经验和好奇出发 每周二发出的田野日志
+
+        - title: 精选日报
+          logo: assets/images/logos/N-daynews.jpg
+          url: https://zhiy.cc/daynews
+          description: 一文了解天下事。
+
+        - title: 刻意体会
+          logo: assets/images/logos/default.png
+          url: https://kyth.hedwig.pub/
+          description: Time takes the time time takes.
+
+        - title: 苔原通信
+          logo: assets/images/logos/N-tundrazone.png
+          url: https://tundrazone.com/dingyue/
+          description: (未找到描述)
+
+        - title: Λ-Reading
+          logo: assets/images/logos/N-rizime.png
+          url: https://rizime.substack.com/
+          description: 您是想要金子还是炼金术？想要炼金术，就从智识的提高开始！从Λ-Reading开始！
+
+        - title: Random Lab 随机实验室
+          logo: assets/images/logos/default.png
+          url: https://random-lab.ghost.io/
+          description: 关于世界的随机观察
+
+        - title: 地心引力
+          logo: assets/images/logos/default.png
+          url: https://walnut.hedwig.pub/
+          description: 关注效率工具与生活方式，一起脱离重力束缚
+
+        - title: 我的社群成长札记
+          logo: assets/images/logos/N-communitynote.png
+          url: https://zhiy.cc/communitynote
+          description: 这是我建立自己社群的札记，作为自己复盘的地方，让这些灵灵闪闪的碎片连接成片，纪念这段“跑江湖”的旅程，也作为第一手实践资料，供大家学习。以后合起来也许就是一本书了~
+          
+        - title: Free Weekly Productivity Insights
+          logo: assets/images/logos/default.png
+          url: https://aliabdaal.com/newsletter/
+          description: my weekly newsletter where I share actionable productivity tips, practical life advice, and high-quality insights from across the web, directly to your inbox.
+
+        - title: 小叉的梦呓
+          logo: assets/images/logos/default.png
+          url: https://chasays.hedwig.pub/
+          description: 每周更新一次关于科技、思考、成长方面的 Newsletter，主要是对过去一周的感悟。
+
+        - title: 酷 壳 – CoolShell
+          logo: assets/images/logos/N-coolshell.png
+          url: https://coolshell.cn/
+          description: 享受编程和技术所带来的快乐 – Coding Your Ambitio
+
+        - title: The 3-2-1 Newsletter
+          logo: assets/images/logos/default.png
+          url: https://jamesclear.com/3-2-1
+          description: The 3-2-1 Newsletter is one of the most popular newsletters in the world. Every Thursday, the latest issue is sent to over 1,000,000 people. Each message includes 3 short ideas from me, 2 quotes from others, and 1 question for you to ponder.
+
+        - title: DAVID PERELL Weekly Newsletters
+          logo: assets/images/logos/default.png
+          url: https://perell.com/newsletter/
+          description: 45,647 people subscribe to my two newsletters: Monday Musings and Friday Finds.
+
+        - title: DEX 周刊
+          logo: assets/images/logos/N-DEX.png
+          url: https://newsletter.dex.group/
+          description: 关于产品、设计、前端、软件等内容的精华资讯邮件列表
+
     - term: Newsletter 订阅（收费）
       links:
 
@@ -264,6 +349,16 @@
           logo: assets/images/logos/N-Kbjdxy.png
           url: https://invisible.school/
           description: 「看不见的学园」是一档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。
+
+        - title: 产品沉思录(199 / 年)
+          logo: assets/images/logos/N-PMThingking.jpg
+          url: https://pmthinking.mikecrm.com/6mA0Hb5
+          description: 产品沉思录，是由少楠（Plidezus）从 2017 年开始建立的产品知识库&付费订邮件周刊。
+
+        - title: DEX 周刊（50 / 年）
+          logo: assets/images/logos/
+          url: https://newsletter.dex.group/N-DEX.png
+          description: 关于产品、设计、前端、软件等内容的精华资讯邮件列表
 
 - taxonomy: Podcast
   icon: fa-podcast
