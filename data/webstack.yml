@@ -332,6 +332,11 @@
           url: https://newsletter.dex.group/
           description: 关于产品、设计、前端、软件等内容的精华资讯邮件列表
 
+        - title: 屋瓦猫-猫周刊
+          logo: assets/images/logos/N-liushuaiiu.png
+          url: https://www.yuque.com/liushuaiiu/cat
+          description: 有猫、喜欢拍照、觉得生活要有趣。每周一更，主要内容为家里几只猫的照片，以及一周内关于猫的小事。
+
     - term: Newsletter 订阅（收费）
       links:
 
