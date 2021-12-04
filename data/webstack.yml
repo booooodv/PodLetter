@@ -18,15 +18,36 @@
   icon: fa-star-o
   links: 
 
-    - title: 小宇宙
+    - title: 小宇宙（播客软件）
       logo: assets/images/logos/XiaoyuzhouFM.png
       url: https://www.xiaoyuzhoufm.com/
       description: 散步时通勤路上. 听播客，上小宇宙
 
-    - title: 科技爱好者周刊
+    - title: 科技爱好者周刊（优质内容）
       logo: assets/images/logos/default.png
       url: https://github.com/ruanyf/weekly
       description: 记录每周值得分享的科技内容，周五发布。（未开通 Newsletter，但可通过 Custon Watch 选择 PR 可邮件通知）
+
+    - title: 竹白（优秀 Newsletter 平台）
+      logo: assets/images/logos/Zhubai.png
+      url: https://zhubai.love/
+      description: 支持多种订阅方式的 newsletter 平台
+
+    - title: Futurow 未来派(站长自荐 Newsletter)
+      logo: assets/images/logos/N-Futurow.png
+      url: https://zhiy.cc/futurow
+      description: 爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么。
+
+
+    - title: Email-newsletter-RSS（开源项目）
+      logo: assets/images/logos/default.png
+      url: https://github.com/alaskasquirrel/Email-newsletter-RSS
+      description: 非常棒的 Newsletter、RSS 汇总项目，欢迎大家一起维护~
+
+    - title: Chinese-Podcasts（开源项目）
+      logo: assets/images/logos/default.png
+      url: https://github.com/alaskasquirrel/Chinese-Podcasts
+      description: 很全的中文播客汇总，欢迎大家一起维护~
 
 - taxonomy: Newsletter
   icon: fa-envelope-open-o
