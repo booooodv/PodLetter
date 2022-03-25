@@ -43,7 +43,6 @@
       url: https://zhiy.cc/upstream
       description: 中文流媒体与创作者经济的深度观察。
 
-
     - title: Email-newsletter-RSS（开源项目）
       logo: assets/images/logos/default.png
       url: https://github.com/alaskasquirrel/Email-newsletter-RSS
@@ -53,6 +52,11 @@
       logo: assets/images/logos/default.png
       url: https://github.com/alaskasquirrel/Chinese-Podcasts
       description: 很全的中文播客汇总，欢迎大家一起维护~
+
+    - title: 生活漫游指南
+      logo: assets/images/logos/Shmyzn.jpg
+      url: https://www.xiaoyuzhoufm.com/podcast/5e509e58418a84a046b2d5aa
+      description: 生活漫游指南是一档随性的漫谈节目，聊些你可能感兴趣的事，顺带卖弄点无用的知识，由于话题常常跑偏，所以不要在意细节。
 
 - taxonomy: Newsletter
   icon: fa-envelope-open-o
@@ -248,9 +252,9 @@
           url: https://www.getrevue.co/profile/yiyi11
           description: 持续阅读思考，刻意练习写作
 
-        - title: 李雪含
+        - title: NEXTClub
           logo: assets/images/logos/N-Lxh.jpg
-          url: https://zhiy.cc/lixuehan
+          url: https://zhiy.cc/nextclub
           description: 万物之中希望最美，万物之中确定性最贵
 
         - title: 世俗的理想主义青年
@@ -435,6 +439,11 @@
           logo: assets/images/logos/TcbsFM.jpg
           url: https://www.ximalaya.com/yule/31511010/
           description: 【天才捕手FM】是一档亲历者讲述自己职业故事的播客，我们会打捞10000个最带劲的职业故事，找到各行各业的优秀人才，为中国青年增加生活和工作的勇气。
+
+        - title: 生活漫游指南
+          logo: assets/images/logos/Shmyzn.jpg
+          url: https://www.xiaoyuzhoufm.com/podcast/5e509e58418a84a046b2d5aa
+          description: 生活漫游指南是一档随性的漫谈节目，聊些你可能感兴趣的事，顺带卖弄点无用的知识，由于话题常常跑偏，所以不要在意细节。
 
     - term: Podcast 节目（外语）
       links:
